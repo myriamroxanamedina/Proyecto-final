@@ -1,7 +1,6 @@
 body {
   background-color: gray;
  }
-.red-social: {
-  width: 20%;
-  height: 10vh;
+.red-social{
+  display: flex;justify-content:space-between;
  }
